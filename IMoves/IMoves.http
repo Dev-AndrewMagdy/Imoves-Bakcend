@@ -1,0 +1,6 @@
+@IMoves_HostAddress = http://localhost:5133
+
+GET {{IMoves_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
