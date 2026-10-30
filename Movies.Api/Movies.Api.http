@@ -1,0 +1,11 @@
+@Movies.Api_HostAddress = http://localhost:5279
+
+GET {{Movies.Api_HostAddress}}/api/movies?page=1&language=en-US
+Accept: application/json
+
+###
+
+GET {{Movies.Api_HostAddress}}/api/movies/969681?language=en-US
+Accept: application/json
+
+###

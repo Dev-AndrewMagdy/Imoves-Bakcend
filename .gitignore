@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+
+# User-specific settings and local secrets
+*.user
+*.suo
+appsettings.*.local.json
